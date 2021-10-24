@@ -40,3 +40,8 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
 - 80 neurons(Layer1), 35 neurons(Layer2), 10 neurons (Layer3)
 - Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classifcation problems as this and relu is for nonlinear datasets.
 - 400 Epochs
+
+
+
+## Summary
+On Average my models kept around 73% accuracy score which is an improvement.  My recommendation to improve this model further would be to find better features to help explain what determines "IS_SUCCESFUL. If we had more indepth data between all these applications, a beter model could possibly be created. 
