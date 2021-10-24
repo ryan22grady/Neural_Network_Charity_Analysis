@@ -41,7 +41,7 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
 - Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classifcation problems as this and relu is for nonlinear datasets.
 - 400 Epochs
 
-
+![Screen Shot 2021-10-24 at 4 42 05 PM](https://user-images.githubusercontent.com/84995704/138614094-20eccfe1-8e89-4ea4-bea1-74fbbd3aeb81.png)
 
 ## Summary
 On Average my models kept around 73% accuracy score which is an improvement.  My recommendation to improve this model further would be to find better features to help explain what determines "IS_SUCCESFUL. If we had more indepth data between all these applications, a beter model could possibly be created. 
